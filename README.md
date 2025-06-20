@@ -12,4 +12,4 @@ This app serves as a demo only. The real product is still under development.
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/yolo-cctv-demo.git
+   git clone https://github.com/tiffchiu17/CarPark.git
